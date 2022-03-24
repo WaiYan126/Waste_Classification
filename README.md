@@ -1,2 +1,2 @@
 # Waste_Classification
-Just a test :')
+Just a test:)
