@@ -24,11 +24,12 @@ if file_upload is not None:
     btn=st.button("Check")
     if btn:
         if (result[0][1]>0.5):
-            obj="Recycle"
+            obj="Recyclable"
             st.write(f'This object is {obj} object')
         else:
             obj='Organic'
             st.write(f'This object is {obj} object')
+
 
 
 
